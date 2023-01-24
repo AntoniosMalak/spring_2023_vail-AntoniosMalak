@@ -33,7 +33,7 @@
   
 
 ## Challenging, interesting, or exciting aspects of today's assignment
-  Day_00 is exciting and interesting and I finished it. I didn't find any hard part but overall it's an exciting recap that covers all python, numpy, and pandas basics
+  Day_00 is exciting and interesting and I finished it. I didn't find any hard parts but overall it's an exciting recap that covers all python, numpy, and pandas basics
   
   
 ## Additional resources used 
