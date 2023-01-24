@@ -16,6 +16,7 @@
   - Dictionary review and how to sort it
   - Set review on how to do operations on it.
 
+
 * Recap numpy basics
   - What is numpy
   - Import numpy
