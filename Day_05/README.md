@@ -6,7 +6,7 @@
 * Mean Squared Logarithm Error
 
 ## Main takeaways from doing today's assignment
-<To be filled>
+Use mse, mae, and msle and discover the difference between them.
 
 ## Challenging, interesting, or exciting aspects of today's assignment
 <To be filled>
