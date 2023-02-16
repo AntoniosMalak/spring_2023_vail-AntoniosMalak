@@ -27,4 +27,3 @@ It's an interesting topic that makes us work with activation functions and see t
 - [Activation Functions in Neural Networks [12 Types & Use Cases]](https://www.v7labs.com/blog/neural-networks-activation-functions)
 - [Activation Functions](https://ml-cheatsheet.readthedocs.io/en/latest/activation_functions.html)
 - [How to Choose an Activation Function for Deep Learning](https://machinelearningmastery.com/choose-an-activation-function-for-deep-learning/)
-
